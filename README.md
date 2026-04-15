@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there 👻
+# 👋 Hi, I'm coronati-18
 
-<!--
-**coronati-18/coronati-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 🎓 Student at 42
+- 💻 Currently learning **C**
+- 🚀 Working on Piscine projects
+- 🌍 Based in Europe
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coronati-18&layout=compact)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coronati-18&show_icons=true)
+
+---
+
+## 🧰 Tools & Platforms
+
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim)
+
+---
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🎯 Current Focus
+
+- C Programming
+- 42 Piscine
+- Algorithms basics
+- Memory management
