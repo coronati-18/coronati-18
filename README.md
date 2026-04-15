@@ -1,7 +1,7 @@
 ## Hi there 👻
 
 ## 🧑‍💻 About Me
-- 💻 Currently learning **C**
+- 💻 Currently learning **C** and **Python**
 - 🌍 Based in Europe
 
 ## Languages
