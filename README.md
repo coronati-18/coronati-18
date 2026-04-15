@@ -19,6 +19,5 @@
 ## 🎯 Current Focus
 
 - C Programming
-- 42 Piscine
 - Algorithms basics
 - Memory management
