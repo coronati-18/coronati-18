@@ -4,11 +4,12 @@
 - 💻 Currently learning **C**
 - 🌍 Based in Europe
 
----
-
-## 🛠 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coronati-18&layout=compact)
+## Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,ocaml&theme=dark" />
+  </a>
+</p>
 
 ## 🐍 Contributions
 
