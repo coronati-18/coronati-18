@@ -11,11 +11,10 @@
   </a>
 </p>
 
-## 🐍 Contributions
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
----
+## HEHEHE
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sakemyali/sakemyali/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+</div>
 
 ## 🎯 Current Focus
 
