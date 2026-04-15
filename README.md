@@ -7,7 +7,7 @@
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java, python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" />
   </a>
 </p>
 
