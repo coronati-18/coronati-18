@@ -1,6 +1,6 @@
 ## Hi there 👻
 
-## 🧑‍💻 About Me
+## About Me
 - 💻 Currently learning **C** and **Python**
 - 🌍 Based in Europe
 
@@ -20,7 +20,7 @@
 </picture>
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 - C Programming
 - Algorithms basics
