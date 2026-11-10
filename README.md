@@ -10,10 +10,6 @@
 
 ---
 
-```console
-root@sakemyali:~$ cat /etc/profile.d/about_me.sh
-```
-
 ```bash
 #!/bin/bash
 # ============================================
