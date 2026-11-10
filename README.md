@@ -45,7 +45,7 @@ coronati-18@github:~$ ./scan --target=self --verbose
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=coronati-18&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=coronati-18&theme=github-dark"
     alt="GitHub Activity Graph"
     width="100%"
   />
