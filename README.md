@@ -4,12 +4,6 @@
 
 <br/>
 
-## Hi there 👻
-
-## About Me
-- 💻 Currently learning **C** and **Python**
-- 🌍 Based in Europe
-
 <div align="center">
   <img src="./terminal.svg" width="100%" alt="Terminal Profile" />
 </div>
