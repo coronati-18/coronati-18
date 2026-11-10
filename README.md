@@ -42,18 +42,18 @@ coronati-18@github:~$ cat ~/arsenal.h
 #ifndef ARSENAL_H
 # define ARSENAL_H
 
-# define LANGUAGES  { "C", "Python", "Java" }
+# define LANGUAGES  { "C", "Java", "Python" }
 # define TOOLS      { "Linux", "Bash", "Vim", "Git" }
 # define MINDSET    "Learn. Build. Improve. Repeat."
 
 #endif
 ```
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,java,linux,bash,vim,git,github&theme=dark&perline=8" alt="Tech Stack" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" alt="C, Java, Python" />
+  </a>
+</p>
 
 <br/>
 
