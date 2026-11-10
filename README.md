@@ -30,25 +30,6 @@
 
 <br/>
 
-<!-- TECH STACK -->
-
-```console
-coronati-18@github:~$ cat ~/arsenal.h
-```
-
-```c
-/* ~/arsenal.h */
-
-#ifndef ARSENAL_H
-# define ARSENAL_H
-
-# define LANGUAGES  { "C", "Java", "Python" }
-# define TOOLS      { "Linux", "Bash", "Vim", "Git" }
-# define MINDSET    "Learn. Build. Improve. Repeat."
-
-#endif
-```
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" alt="C, Java, Python" />
@@ -56,12 +37,6 @@ coronati-18@github:~$ cat ~/arsenal.h
 </p>
 
 <br/>
-
-<!-- GITHUB STATISTICS -->
-
-```console
-coronati-18@github:~$ ./scan --target=self --verbose
-```
 
 <div align="center">
 
@@ -81,8 +56,6 @@ coronati-18@github:~$ ./scan --target=self --verbose
 
 <br/>
 
-<!-- STREAK STATISTICS -->
-
 <div align="center">
 
 <img
@@ -93,12 +66,6 @@ coronati-18@github:~$ ./scan --target=self --verbose
 </div>
 
 <br/>
-
-<!-- CONTRIBUTION ACTIVITY -->
-
-```console
-coronati-18@github:~$ ./contributions --visualize
-```
 
 <div align="center">
 
@@ -111,12 +78,6 @@ coronati-18@github:~$ ./contributions --visualize
 </div>
 
 <br/>
-
-<!-- PACMAN CONTRIBUTION GRAPH -->
-
-```console
-coronati-18@github:~$ ./pacman --eat-contributions
-```
 
 <div align="center">
 
@@ -140,13 +101,6 @@ coronati-18@github:~$ ./pacman --eat-contributions
 
 <br/>
 
-<!-- FOOTER -->
-
-```console
-coronati-18@github:~$ logout
-
-Connection to github.com closed.
-```
 
 <div align="center">
 
