@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="CORONATI-18" />
+<img src="./banner.svg" width="100%" alt="CORONATI-18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+OK+%5D+Establishing+secure+connection...;%5B+OK+%5D+Bypassing+firewall...;%5B+OK+%5D+Access+granted.+Welcome+to+my+mainframe+%F0%9F%91%BB;%3E+while(alive)+%7B+learn()%3B+code()%3B+%7D" alt="typing" />
 
@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-<img src="./assets/terminal.svg" width="100%" alt="neofetch" />
+<img src="./terminal.svg" width="100%" alt="neofetch" />
 </div>
 
 <br/>
