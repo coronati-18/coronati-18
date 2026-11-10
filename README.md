@@ -2,13 +2,13 @@
   <img src="./banner.svg" width="100%" alt="CORONATI-18" />
 </div>
 
-<br/>
+<!-- <br/>
 
 <div align="center">
   <img src="./terminal.svg" width="100%" alt="Terminal Profile" />
 </div>
 
-<br/>
+<br/> -->
 
 ## Languages
 
