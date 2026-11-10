@@ -44,7 +44,11 @@ coronati-18@github:~$ ./scan --target=self --verbose
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coronati-18&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&title_color=00FF41&custom_title=%3E%20packet_capture%20--last%2031d" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=coronati-18&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </div>
 
 ```console
